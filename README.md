@@ -1,0 +1,1 @@
+This is a windows form application that implements the Vignere, or Repeating key xor cipher. 
